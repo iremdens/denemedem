@@ -8,6 +8,7 @@ public class Ymg2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Ymg2Application.class, args);
+	
 	}
 
 }
